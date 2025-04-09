@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Name to Kanji Converter</title>
+</head>
+<body>
+    <h1>Name to Kanji Converter</h1>
+    <form method="post">
+        <label for="name">Enter Name (e.g., Carlos):</label>
+        <input type="text" id="name" name="name" required>
+
+        <p>Select Gender:</p>
+        <label><input type="radio" name="gender" value="male" checked> Male</label>
+        <label><input type="radio" name="gender" value="female"> Female</label>
+
+        <br><br>
+        <input type="submit" value="Convert">
+    </form>
+
+    {% if result %}
+        <h2>Converted Kanji Name:</h2>
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>
