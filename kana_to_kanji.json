@@ -1,2354 +1,3122 @@
-{
+ {
   "あ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      },
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      },
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      },
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      },
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      }
+    ]
   },
   "い": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "健",
+        "meaning": "health"
+      },
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      },
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      },
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      }
+    ]
   },
   "う": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      },
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      },
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      },
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      },
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      }
+    ]
   },
   "え": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "一",
+        "meaning": "one"
+      },
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      },
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      },
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      },
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      }
+    ]
   },
   "お": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "翼",
+        "meaning": "wing"
+      },
+      {
+        "kanji": "勝",
+        "meaning": "victory"
+      },
+      {
+        "kanji": "直",
+        "meaning": "honest"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "希",
+        "meaning": "hope"
+      },
+      {
+        "kanji": "恵",
+        "meaning": "blessing"
+      },
+      {
+        "kanji": "結",
+        "meaning": "tie"
+      }
+    ]
   },
   "か": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "大",
+        "meaning": "big"
+      },
+      {
+        "kanji": "浩",
+        "meaning": "vast"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "咲",
+        "meaning": "bloom"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "瑞",
+        "meaning": "auspicious"
+      }
+    ]
   },
   "き": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "智",
+        "meaning": "wisdom"
+      },
+      {
+        "kanji": "昇",
+        "meaning": "rise"
+      },
+      {
+        "kanji": "誠",
+        "meaning": "sincerity"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "麗",
+        "meaning": "beautiful"
+      },
+      {
+        "kanji": "映",
+        "meaning": "reflect"
+      },
+      {
+        "kanji": "杏",
+        "meaning": "apricot"
+      }
+    ]
   },
   "く": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "優",
+        "meaning": "kindness"
+      },
+      {
+        "kanji": "旺",
+        "meaning": "flourishing"
+      },
+      {
+        "kanji": "悠",
+        "meaning": "calm"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "萌",
+        "meaning": "bud"
+      },
+      {
+        "kanji": "晶",
+        "meaning": "sparkle"
+      }
+    ]
   },
   "け": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "快",
+        "meaning": "pleasant"
+      },
+      {
+        "kanji": "匠",
+        "meaning": "artisan"
+      },
+      {
+        "kanji": "新",
+        "meaning": "new"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "遥",
+        "meaning": "distant"
+      },
+      {
+        "kanji": "絵",
+        "meaning": "painting"
+      },
+      {
+        "kanji": "鈴",
+        "meaning": "bell"
+      }
+    ]
   },
   "こ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "信",
+        "meaning": "faith"
+      },
+      {
+        "kanji": "達",
+        "meaning": "accomplish"
+      },
+      {
+        "kanji": "空",
+        "meaning": "sky"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "夢",
+        "meaning": "dream"
+      },
+      {
+        "kanji": "美咲",
+        "meaning": "blooming beauty"
+      },
+      {
+        "kanji": "華",
+        "meaning": "splendor"
+      }
+    ]
   },
   "さ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "迅",
+        "meaning": "fast"
+      },
+      {
+        "kanji": "虎",
+        "meaning": "tiger"
+      },
+      {
+        "kanji": "尊",
+        "meaning": "honor"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "澪",
+        "meaning": "waterway"
+      },
+      {
+        "kanji": "翠",
+        "meaning": "green"
+      },
+      {
+        "kanji": "琴",
+        "meaning": "harp"
+      }
+    ]
   },
   "し": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "湊",
+        "meaning": "harbor"
+      },
+      {
+        "kanji": "統",
+        "meaning": "unite"
+      },
+      {
+        "kanji": "豪",
+        "meaning": "heroic"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "聖",
+        "meaning": "holy"
+      },
+      {
+        "kanji": "希実",
+        "meaning": "hope and fruit"
+      },
+      {
+        "kanji": "恋",
+        "meaning": "romance"
+      }
+    ]
   },
   "す": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "渉",
+        "meaning": "ford"
+      },
+      {
+        "kanji": "岳",
+        "meaning": "peak"
+      },
+      {
+        "kanji": "嵐",
+        "meaning": "storm"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "月",
+        "meaning": "moon"
+      },
+      {
+        "kanji": "笑",
+        "meaning": "smile"
+      },
+      {
+        "kanji": "陽菜",
+        "meaning": "sunny greens"
+      }
+    ]
   },
   "せ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "剣",
+        "meaning": "sword"
+      },
+      {
+        "kanji": "隼",
+        "meaning": "falcon"
+      },
+      {
+        "kanji": "隼人",
+        "meaning": "quick man"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "凛",
+        "meaning": "dignified"
+      },
+      {
+        "kanji": "真",
+        "meaning": "truth"
+      },
+      {
+        "kanji": "渚",
+        "meaning": "shore"
+      }
+    ]
   },
   "そ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "臣",
+        "meaning": "minister"
+      },
+      {
+        "kanji": "雷",
+        "meaning": "thunder"
+      },
+      {
+        "kanji": "剣士",
+        "meaning": "swordsman"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "羽",
+        "meaning": "feather"
+      },
+      {
+        "kanji": "望",
+        "meaning": "wish"
+      },
+      {
+        "kanji": "碧",
+        "meaning": "blue"
+      }
+    ]
   },
   "た": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "衛",
+        "meaning": "guard"
+      },
+      {
+        "kanji": "義",
+        "meaning": "justice"
+      },
+      {
+        "kanji": "駆",
+        "meaning": "gallop"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "乃",
+        "meaning": "from"
+      },
+      {
+        "kanji": "菜",
+        "meaning": "greens"
+      },
+      {
+        "kanji": "郁",
+        "meaning": "fragrance"
+      }
+    ]
   },
   "ち": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "暁",
+        "meaning": "dawn"
+      },
+      {
+        "kanji": "烈",
+        "meaning": "fierce"
+      },
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "織",
+        "meaning": "weave"
+      },
+      {
+        "kanji": "灯",
+        "meaning": "light"
+      },
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      }
+    ]
   },
   "つ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      },
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      },
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      },
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      }
+    ]
   },
   "て": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "健",
+        "meaning": "health"
+      },
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      },
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      },
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      },
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      }
+    ]
   },
   "と": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      },
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      },
+      {
+        "kanji": "一",
+        "meaning": "one"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      },
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      },
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      }
+    ]
   },
   "な": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      },
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      },
+      {
+        "kanji": "翼",
+        "meaning": "wing"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      },
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "希",
+        "meaning": "hope"
+      }
+    ]
   },
   "に": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "勝",
+        "meaning": "victory"
+      },
+      {
+        "kanji": "直",
+        "meaning": "honest"
+      },
+      {
+        "kanji": "大",
+        "meaning": "big"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "恵",
+        "meaning": "blessing"
+      },
+      {
+        "kanji": "結",
+        "meaning": "tie"
+      },
+      {
+        "kanji": "咲",
+        "meaning": "bloom"
+      }
+    ]
   },
   "ぬ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "浩",
+        "meaning": "vast"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "智",
+        "meaning": "wisdom"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "瑞",
+        "meaning": "auspicious"
+      },
+      {
+        "kanji": "麗",
+        "meaning": "beautiful"
+      }
+    ]
   },
   "ね": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "昇",
+        "meaning": "rise"
+      },
+      {
+        "kanji": "誠",
+        "meaning": "sincerity"
+      },
+      {
+        "kanji": "優",
+        "meaning": "kindness"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "映",
+        "meaning": "reflect"
+      },
+      {
+        "kanji": "杏",
+        "meaning": "apricot"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      }
+    ]
   },
   "の": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "旺",
+        "meaning": "flourishing"
+      },
+      {
+        "kanji": "悠",
+        "meaning": "calm"
+      },
+      {
+        "kanji": "快",
+        "meaning": "pleasant"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "萌",
+        "meaning": "bud"
+      },
+      {
+        "kanji": "晶",
+        "meaning": "sparkle"
+      },
+      {
+        "kanji": "遥",
+        "meaning": "distant"
+      }
+    ]
   },
   "は": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "匠",
+        "meaning": "artisan"
+      },
+      {
+        "kanji": "新",
+        "meaning": "new"
+      },
+      {
+        "kanji": "信",
+        "meaning": "faith"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "絵",
+        "meaning": "painting"
+      },
+      {
+        "kanji": "鈴",
+        "meaning": "bell"
+      },
+      {
+        "kanji": "夢",
+        "meaning": "dream"
+      }
+    ]
   },
   "ひ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "達",
+        "meaning": "accomplish"
+      },
+      {
+        "kanji": "空",
+        "meaning": "sky"
+      },
+      {
+        "kanji": "迅",
+        "meaning": "fast"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "美咲",
+        "meaning": "blooming beauty"
+      },
+      {
+        "kanji": "華",
+        "meaning": "splendor"
+      },
+      {
+        "kanji": "澪",
+        "meaning": "waterway"
+      }
+    ]
   },
   "ふ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "虎",
+        "meaning": "tiger"
+      },
+      {
+        "kanji": "尊",
+        "meaning": "honor"
+      },
+      {
+        "kanji": "湊",
+        "meaning": "harbor"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "翠",
+        "meaning": "green"
+      },
+      {
+        "kanji": "琴",
+        "meaning": "harp"
+      },
+      {
+        "kanji": "聖",
+        "meaning": "holy"
+      }
+    ]
   },
   "へ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "統",
+        "meaning": "unite"
+      },
+      {
+        "kanji": "豪",
+        "meaning": "heroic"
+      },
+      {
+        "kanji": "渉",
+        "meaning": "ford"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "希実",
+        "meaning": "hope and fruit"
+      },
+      {
+        "kanji": "恋",
+        "meaning": "romance"
+      },
+      {
+        "kanji": "月",
+        "meaning": "moon"
+      }
+    ]
   },
   "ほ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "岳",
+        "meaning": "peak"
+      },
+      {
+        "kanji": "嵐",
+        "meaning": "storm"
+      },
+      {
+        "kanji": "剣",
+        "meaning": "sword"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "笑",
+        "meaning": "smile"
+      },
+      {
+        "kanji": "陽菜",
+        "meaning": "sunny greens"
+      },
+      {
+        "kanji": "凛",
+        "meaning": "dignified"
+      }
+    ]
   },
   "ま": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "隼",
+        "meaning": "falcon"
+      },
+      {
+        "kanji": "隼人",
+        "meaning": "quick man"
+      },
+      {
+        "kanji": "臣",
+        "meaning": "minister"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "真",
+        "meaning": "truth"
+      },
+      {
+        "kanji": "渚",
+        "meaning": "shore"
+      },
+      {
+        "kanji": "羽",
+        "meaning": "feather"
+      }
+    ]
   },
   "み": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "雷",
+        "meaning": "thunder"
+      },
+      {
+        "kanji": "剣士",
+        "meaning": "swordsman"
+      },
+      {
+        "kanji": "衛",
+        "meaning": "guard"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "望",
+        "meaning": "wish"
+      },
+      {
+        "kanji": "碧",
+        "meaning": "blue"
+      },
+      {
+        "kanji": "乃",
+        "meaning": "from"
+      }
+    ]
   },
   "む": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "義",
+        "meaning": "justice"
+      },
+      {
+        "kanji": "駆",
+        "meaning": "gallop"
+      },
+      {
+        "kanji": "暁",
+        "meaning": "dawn"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "菜",
+        "meaning": "greens"
+      },
+      {
+        "kanji": "郁",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "織",
+        "meaning": "weave"
+      }
+    ]
   },
   "め": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "烈",
+        "meaning": "fierce"
+      },
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      },
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "灯",
+        "meaning": "light"
+      },
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      },
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      }
+    ]
   },
   "も": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "健",
+        "meaning": "health"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      },
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      },
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      }
+    ]
   },
   "や": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      },
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      },
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      },
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      },
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      }
+    ]
   },
   "ゆ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      },
+      {
+        "kanji": "一",
+        "meaning": "one"
+      },
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      },
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      },
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      }
+    ]
   },
   "よ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      },
+      {
+        "kanji": "翼",
+        "meaning": "wing"
+      },
+      {
+        "kanji": "勝",
+        "meaning": "victory"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "希",
+        "meaning": "hope"
+      },
+      {
+        "kanji": "恵",
+        "meaning": "blessing"
+      }
+    ]
   },
   "ら": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "直",
+        "meaning": "honest"
+      },
+      {
+        "kanji": "大",
+        "meaning": "big"
+      },
+      {
+        "kanji": "浩",
+        "meaning": "vast"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "結",
+        "meaning": "tie"
+      },
+      {
+        "kanji": "咲",
+        "meaning": "bloom"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      }
+    ]
   },
   "り": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "智",
+        "meaning": "wisdom"
+      },
+      {
+        "kanji": "昇",
+        "meaning": "rise"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "瑞",
+        "meaning": "auspicious"
+      },
+      {
+        "kanji": "麗",
+        "meaning": "beautiful"
+      },
+      {
+        "kanji": "映",
+        "meaning": "reflect"
+      }
+    ]
   },
   "る": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "誠",
+        "meaning": "sincerity"
+      },
+      {
+        "kanji": "優",
+        "meaning": "kindness"
+      },
+      {
+        "kanji": "旺",
+        "meaning": "flourishing"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "杏",
+        "meaning": "apricot"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "萌",
+        "meaning": "bud"
+      }
+    ]
   },
   "れ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "悠",
+        "meaning": "calm"
+      },
+      {
+        "kanji": "快",
+        "meaning": "pleasant"
+      },
+      {
+        "kanji": "匠",
+        "meaning": "artisan"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "晶",
+        "meaning": "sparkle"
+      },
+      {
+        "kanji": "遥",
+        "meaning": "distant"
+      },
+      {
+        "kanji": "絵",
+        "meaning": "painting"
+      }
+    ]
   },
   "ろ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "新",
+        "meaning": "new"
+      },
+      {
+        "kanji": "信",
+        "meaning": "faith"
+      },
+      {
+        "kanji": "達",
+        "meaning": "accomplish"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "鈴",
+        "meaning": "bell"
+      },
+      {
+        "kanji": "夢",
+        "meaning": "dream"
+      },
+      {
+        "kanji": "美咲",
+        "meaning": "blooming beauty"
+      }
+    ]
   },
   "わ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "空",
+        "meaning": "sky"
+      },
+      {
+        "kanji": "迅",
+        "meaning": "fast"
+      },
+      {
+        "kanji": "虎",
+        "meaning": "tiger"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "華",
+        "meaning": "splendor"
+      },
+      {
+        "kanji": "澪",
+        "meaning": "waterway"
+      },
+      {
+        "kanji": "翠",
+        "meaning": "green"
+      }
+    ]
   },
   "を": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "尊",
+        "meaning": "honor"
+      },
+      {
+        "kanji": "湊",
+        "meaning": "harbor"
+      },
+      {
+        "kanji": "統",
+        "meaning": "unite"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "琴",
+        "meaning": "harp"
+      },
+      {
+        "kanji": "聖",
+        "meaning": "holy"
+      },
+      {
+        "kanji": "希実",
+        "meaning": "hope and fruit"
+      }
+    ]
   },
   "ん": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "豪",
+        "meaning": "heroic"
+      },
+      {
+        "kanji": "渉",
+        "meaning": "ford"
+      },
+      {
+        "kanji": "岳",
+        "meaning": "peak"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "恋",
+        "meaning": "romance"
+      },
+      {
+        "kanji": "月",
+        "meaning": "moon"
+      },
+      {
+        "kanji": "笑",
+        "meaning": "smile"
+      }
+    ]
   },
   "が": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "嵐",
+        "meaning": "storm"
+      },
+      {
+        "kanji": "剣",
+        "meaning": "sword"
+      },
+      {
+        "kanji": "隼",
+        "meaning": "falcon"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "陽菜",
+        "meaning": "sunny greens"
+      },
+      {
+        "kanji": "凛",
+        "meaning": "dignified"
+      },
+      {
+        "kanji": "真",
+        "meaning": "truth"
+      }
+    ]
   },
   "ぎ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "隼人",
+        "meaning": "quick man"
+      },
+      {
+        "kanji": "臣",
+        "meaning": "minister"
+      },
+      {
+        "kanji": "雷",
+        "meaning": "thunder"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "渚",
+        "meaning": "shore"
+      },
+      {
+        "kanji": "羽",
+        "meaning": "feather"
+      },
+      {
+        "kanji": "望",
+        "meaning": "wish"
+      }
+    ]
   },
   "ぐ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "剣士",
+        "meaning": "swordsman"
+      },
+      {
+        "kanji": "衛",
+        "meaning": "guard"
+      },
+      {
+        "kanji": "義",
+        "meaning": "justice"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "碧",
+        "meaning": "blue"
+      },
+      {
+        "kanji": "乃",
+        "meaning": "from"
+      },
+      {
+        "kanji": "菜",
+        "meaning": "greens"
+      }
+    ]
   },
   "げ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "駆",
+        "meaning": "gallop"
+      },
+      {
+        "kanji": "暁",
+        "meaning": "dawn"
+      },
+      {
+        "kanji": "烈",
+        "meaning": "fierce"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "郁",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "織",
+        "meaning": "weave"
+      },
+      {
+        "kanji": "灯",
+        "meaning": "light"
+      }
+    ]
   },
   "ご": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      },
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      },
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      },
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      },
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      }
+    ]
   },
   "ざ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "健",
+        "meaning": "health"
+      },
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      },
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      },
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      }
+    ]
   },
   "じ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      },
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      },
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      },
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      },
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      }
+    ]
   },
   "ず": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "一",
+        "meaning": "one"
+      },
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      },
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      },
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      },
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      }
+    ]
   },
   "ぜ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "翼",
+        "meaning": "wing"
+      },
+      {
+        "kanji": "勝",
+        "meaning": "victory"
+      },
+      {
+        "kanji": "直",
+        "meaning": "honest"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "希",
+        "meaning": "hope"
+      },
+      {
+        "kanji": "恵",
+        "meaning": "blessing"
+      },
+      {
+        "kanji": "結",
+        "meaning": "tie"
+      }
+    ]
   },
   "ぞ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "大",
+        "meaning": "big"
+      },
+      {
+        "kanji": "浩",
+        "meaning": "vast"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "咲",
+        "meaning": "bloom"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "瑞",
+        "meaning": "auspicious"
+      }
+    ]
   },
   "だ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "智",
+        "meaning": "wisdom"
+      },
+      {
+        "kanji": "昇",
+        "meaning": "rise"
+      },
+      {
+        "kanji": "誠",
+        "meaning": "sincerity"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "麗",
+        "meaning": "beautiful"
+      },
+      {
+        "kanji": "映",
+        "meaning": "reflect"
+      },
+      {
+        "kanji": "杏",
+        "meaning": "apricot"
+      }
+    ]
   },
   "ぢ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "優",
+        "meaning": "kindness"
+      },
+      {
+        "kanji": "旺",
+        "meaning": "flourishing"
+      },
+      {
+        "kanji": "悠",
+        "meaning": "calm"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "萌",
+        "meaning": "bud"
+      },
+      {
+        "kanji": "晶",
+        "meaning": "sparkle"
+      }
+    ]
   },
   "づ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "快",
+        "meaning": "pleasant"
+      },
+      {
+        "kanji": "匠",
+        "meaning": "artisan"
+      },
+      {
+        "kanji": "新",
+        "meaning": "new"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "遥",
+        "meaning": "distant"
+      },
+      {
+        "kanji": "絵",
+        "meaning": "painting"
+      },
+      {
+        "kanji": "鈴",
+        "meaning": "bell"
+      }
+    ]
   },
   "で": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "信",
+        "meaning": "faith"
+      },
+      {
+        "kanji": "達",
+        "meaning": "accomplish"
+      },
+      {
+        "kanji": "空",
+        "meaning": "sky"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "夢",
+        "meaning": "dream"
+      },
+      {
+        "kanji": "美咲",
+        "meaning": "blooming beauty"
+      },
+      {
+        "kanji": "華",
+        "meaning": "splendor"
+      }
+    ]
   },
   "ど": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "迅",
+        "meaning": "fast"
+      },
+      {
+        "kanji": "虎",
+        "meaning": "tiger"
+      },
+      {
+        "kanji": "尊",
+        "meaning": "honor"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "澪",
+        "meaning": "waterway"
+      },
+      {
+        "kanji": "翠",
+        "meaning": "green"
+      },
+      {
+        "kanji": "琴",
+        "meaning": "harp"
+      }
+    ]
   },
   "ば": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "湊",
+        "meaning": "harbor"
+      },
+      {
+        "kanji": "統",
+        "meaning": "unite"
+      },
+      {
+        "kanji": "豪",
+        "meaning": "heroic"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "聖",
+        "meaning": "holy"
+      },
+      {
+        "kanji": "希実",
+        "meaning": "hope and fruit"
+      },
+      {
+        "kanji": "恋",
+        "meaning": "romance"
+      }
+    ]
   },
   "び": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "渉",
+        "meaning": "ford"
+      },
+      {
+        "kanji": "岳",
+        "meaning": "peak"
+      },
+      {
+        "kanji": "嵐",
+        "meaning": "storm"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "月",
+        "meaning": "moon"
+      },
+      {
+        "kanji": "笑",
+        "meaning": "smile"
+      },
+      {
+        "kanji": "陽菜",
+        "meaning": "sunny greens"
+      }
+    ]
   },
   "ぶ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "剣",
+        "meaning": "sword"
+      },
+      {
+        "kanji": "隼",
+        "meaning": "falcon"
+      },
+      {
+        "kanji": "隼人",
+        "meaning": "quick man"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "凛",
+        "meaning": "dignified"
+      },
+      {
+        "kanji": "真",
+        "meaning": "truth"
+      },
+      {
+        "kanji": "渚",
+        "meaning": "shore"
+      }
+    ]
   },
   "べ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "臣",
+        "meaning": "minister"
+      },
+      {
+        "kanji": "雷",
+        "meaning": "thunder"
+      },
+      {
+        "kanji": "剣士",
+        "meaning": "swordsman"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "羽",
+        "meaning": "feather"
+      },
+      {
+        "kanji": "望",
+        "meaning": "wish"
+      },
+      {
+        "kanji": "碧",
+        "meaning": "blue"
+      }
+    ]
   },
   "ぼ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "衛",
+        "meaning": "guard"
+      },
+      {
+        "kanji": "義",
+        "meaning": "justice"
+      },
+      {
+        "kanji": "駆",
+        "meaning": "gallop"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "乃",
+        "meaning": "from"
+      },
+      {
+        "kanji": "菜",
+        "meaning": "greens"
+      },
+      {
+        "kanji": "郁",
+        "meaning": "fragrance"
+      }
+    ]
   },
   "ぱ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "暁",
+        "meaning": "dawn"
+      },
+      {
+        "kanji": "烈",
+        "meaning": "fierce"
+      },
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "織",
+        "meaning": "weave"
+      },
+      {
+        "kanji": "灯",
+        "meaning": "light"
+      },
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      }
+    ]
   },
   "ぴ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      },
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      },
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      },
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      }
+    ]
   },
   "ぷ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "健",
+        "meaning": "health"
+      },
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      },
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      },
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      },
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      }
+    ]
   },
   "ぺ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      },
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      },
+      {
+        "kanji": "一",
+        "meaning": "one"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      },
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      },
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      }
+    ]
   },
   "ぽ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      },
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      },
+      {
+        "kanji": "翼",
+        "meaning": "wing"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      },
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "希",
+        "meaning": "hope"
+      }
+    ]
   },
   "きゃ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "勝",
+        "meaning": "victory"
+      },
+      {
+        "kanji": "直",
+        "meaning": "honest"
+      },
+      {
+        "kanji": "大",
+        "meaning": "big"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "恵",
+        "meaning": "blessing"
+      },
+      {
+        "kanji": "結",
+        "meaning": "tie"
+      },
+      {
+        "kanji": "咲",
+        "meaning": "bloom"
+      }
+    ]
   },
   "きゅ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "浩",
+        "meaning": "vast"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "智",
+        "meaning": "wisdom"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "瑞",
+        "meaning": "auspicious"
+      },
+      {
+        "kanji": "麗",
+        "meaning": "beautiful"
+      }
+    ]
   },
   "きょ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "昇",
+        "meaning": "rise"
+      },
+      {
+        "kanji": "誠",
+        "meaning": "sincerity"
+      },
+      {
+        "kanji": "優",
+        "meaning": "kindness"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "映",
+        "meaning": "reflect"
+      },
+      {
+        "kanji": "杏",
+        "meaning": "apricot"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      }
+    ]
   },
   "しゃ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "旺",
+        "meaning": "flourishing"
+      },
+      {
+        "kanji": "悠",
+        "meaning": "calm"
+      },
+      {
+        "kanji": "快",
+        "meaning": "pleasant"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "萌",
+        "meaning": "bud"
+      },
+      {
+        "kanji": "晶",
+        "meaning": "sparkle"
+      },
+      {
+        "kanji": "遥",
+        "meaning": "distant"
+      }
+    ]
   },
   "しゅ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "匠",
+        "meaning": "artisan"
+      },
+      {
+        "kanji": "新",
+        "meaning": "new"
+      },
+      {
+        "kanji": "信",
+        "meaning": "faith"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "絵",
+        "meaning": "painting"
+      },
+      {
+        "kanji": "鈴",
+        "meaning": "bell"
+      },
+      {
+        "kanji": "夢",
+        "meaning": "dream"
+      }
+    ]
   },
   "しょ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "達",
+        "meaning": "accomplish"
+      },
+      {
+        "kanji": "空",
+        "meaning": "sky"
+      },
+      {
+        "kanji": "迅",
+        "meaning": "fast"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "美咲",
+        "meaning": "blooming beauty"
+      },
+      {
+        "kanji": "華",
+        "meaning": "splendor"
+      },
+      {
+        "kanji": "澪",
+        "meaning": "waterway"
+      }
+    ]
   },
   "ちゃ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "虎",
+        "meaning": "tiger"
+      },
+      {
+        "kanji": "尊",
+        "meaning": "honor"
+      },
+      {
+        "kanji": "湊",
+        "meaning": "harbor"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "翠",
+        "meaning": "green"
+      },
+      {
+        "kanji": "琴",
+        "meaning": "harp"
+      },
+      {
+        "kanji": "聖",
+        "meaning": "holy"
+      }
+    ]
   },
   "ちゅ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "統",
+        "meaning": "unite"
+      },
+      {
+        "kanji": "豪",
+        "meaning": "heroic"
+      },
+      {
+        "kanji": "渉",
+        "meaning": "ford"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "希実",
+        "meaning": "hope and fruit"
+      },
+      {
+        "kanji": "恋",
+        "meaning": "romance"
+      },
+      {
+        "kanji": "月",
+        "meaning": "moon"
+      }
+    ]
   },
   "ちょ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "岳",
+        "meaning": "peak"
+      },
+      {
+        "kanji": "嵐",
+        "meaning": "storm"
+      },
+      {
+        "kanji": "剣",
+        "meaning": "sword"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "笑",
+        "meaning": "smile"
+      },
+      {
+        "kanji": "陽菜",
+        "meaning": "sunny greens"
+      },
+      {
+        "kanji": "凛",
+        "meaning": "dignified"
+      }
+    ]
   },
   "にゃ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "隼",
+        "meaning": "falcon"
+      },
+      {
+        "kanji": "隼人",
+        "meaning": "quick man"
+      },
+      {
+        "kanji": "臣",
+        "meaning": "minister"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "真",
+        "meaning": "truth"
+      },
+      {
+        "kanji": "渚",
+        "meaning": "shore"
+      },
+      {
+        "kanji": "羽",
+        "meaning": "feather"
+      }
+    ]
   },
   "にゅ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "雷",
+        "meaning": "thunder"
+      },
+      {
+        "kanji": "剣士",
+        "meaning": "swordsman"
+      },
+      {
+        "kanji": "衛",
+        "meaning": "guard"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "望",
+        "meaning": "wish"
+      },
+      {
+        "kanji": "碧",
+        "meaning": "blue"
+      },
+      {
+        "kanji": "乃",
+        "meaning": "from"
+      }
+    ]
   },
   "にょ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "義",
+        "meaning": "justice"
+      },
+      {
+        "kanji": "駆",
+        "meaning": "gallop"
+      },
+      {
+        "kanji": "暁",
+        "meaning": "dawn"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "菜",
+        "meaning": "greens"
+      },
+      {
+        "kanji": "郁",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "織",
+        "meaning": "weave"
+      }
+    ]
   },
   "ひゃ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "烈",
+        "meaning": "fierce"
+      },
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      },
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "灯",
+        "meaning": "light"
+      },
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      },
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      }
+    ]
   },
   "ひゅ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "健",
+        "meaning": "health"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      },
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      },
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      }
+    ]
   },
   "ひょ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      },
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      },
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      },
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      },
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      }
+    ]
   },
   "みゃ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      },
+      {
+        "kanji": "一",
+        "meaning": "one"
+      },
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      },
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      },
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      }
+    ]
   },
   "みゅ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      },
+      {
+        "kanji": "翼",
+        "meaning": "wing"
+      },
+      {
+        "kanji": "勝",
+        "meaning": "victory"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "希",
+        "meaning": "hope"
+      },
+      {
+        "kanji": "恵",
+        "meaning": "blessing"
+      }
+    ]
   },
   "みょ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "直",
+        "meaning": "honest"
+      },
+      {
+        "kanji": "大",
+        "meaning": "big"
+      },
+      {
+        "kanji": "浩",
+        "meaning": "vast"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "結",
+        "meaning": "tie"
+      },
+      {
+        "kanji": "咲",
+        "meaning": "bloom"
+      },
+      {
+        "kanji": "光",
+        "meaning": "light"
+      }
+    ]
   },
   "りゃ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "智",
+        "meaning": "wisdom"
+      },
+      {
+        "kanji": "昇",
+        "meaning": "rise"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "瑞",
+        "meaning": "auspicious"
+      },
+      {
+        "kanji": "麗",
+        "meaning": "beautiful"
+      },
+      {
+        "kanji": "映",
+        "meaning": "reflect"
+      }
+    ]
   },
   "りゅ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "誠",
+        "meaning": "sincerity"
+      },
+      {
+        "kanji": "優",
+        "meaning": "kindness"
+      },
+      {
+        "kanji": "旺",
+        "meaning": "flourishing"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "杏",
+        "meaning": "apricot"
+      },
+      {
+        "kanji": "和",
+        "meaning": "harmony"
+      },
+      {
+        "kanji": "萌",
+        "meaning": "bud"
+      }
+    ]
   },
   "りょ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "悠",
+        "meaning": "calm"
+      },
+      {
+        "kanji": "快",
+        "meaning": "pleasant"
+      },
+      {
+        "kanji": "匠",
+        "meaning": "artisan"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
-    ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+      {
+        "kanji": "晶",
+        "meaning": "sparkle"
+      },
+      {
+        "kanji": "遥",
+        "meaning": "distant"
+      },
+      {
+        "kanji": "絵",
+        "meaning": "painting"
+      }
+    ]
   },
   "ぎゃ": {
     "male": [
-      "陽",
-      "昇",
-      "龍"
+      {
+        "kanji": "新",
+        "meaning": "new"
+      },
+      {
+        "kanji": "信",
+        "meaning": "faith"
+      },
+      {
+        "kanji": "達",
+        "meaning": "accomplish"
+      }
     ],
     "female": [
-      "咲",
-      "彩",
-      "光"
-    ],
-    "meanings": {
-      "male": [
-        "sun",
-        "rise",
-        "dragon"
-      ],
-      "female": [
-        "bloom",
-        "colorful",
-        "light"
-      ]
-    }
+      {
+        "kanji": "鈴",
+        "meaning": "bell"
+      },
+      {
+        "kanji": "夢",
+        "meaning": "dream"
+      },
+      {
+        "kanji": "美咲",
+        "meaning": "blooming beauty"
+      }
+    ]
   },
   "ぎゅ": {
     "male": [
-      "武",
-      "誠",
-      "志"
+      {
+        "kanji": "空",
+        "meaning": "sky"
+      },
+      {
+        "kanji": "迅",
+        "meaning": "fast"
+      },
+      {
+        "kanji": "虎",
+        "meaning": "tiger"
+      }
     ],
     "female": [
-      "絵",
-      "希",
-      "恵"
-    ],
-    "meanings": {
-      "male": [
-        "warrior",
-        "sincerity",
-        "will"
-      ],
-      "female": [
-        "painting",
-        "hope",
-        "blessing"
-      ]
-    }
+      {
+        "kanji": "華",
+        "meaning": "splendor"
+      },
+      {
+        "kanji": "澪",
+        "meaning": "waterway"
+      },
+      {
+        "kanji": "翠",
+        "meaning": "green"
+      }
+    ]
   },
   "ぎょ": {
     "male": [
-      "迅",
-      "烈",
-      "信"
+      {
+        "kanji": "尊",
+        "meaning": "honor"
+      },
+      {
+        "kanji": "湊",
+        "meaning": "harbor"
+      },
+      {
+        "kanji": "統",
+        "meaning": "unite"
+      }
     ],
     "female": [
-      "詩",
-      "琴",
-      "舞"
-    ],
-    "meanings": {
-      "male": [
-        "swift",
-        "fierce",
-        "faith"
-      ],
-      "female": [
-        "poem",
-        "harp",
-        "dance"
-      ]
-    }
+      {
+        "kanji": "琴",
+        "meaning": "harp"
+      },
+      {
+        "kanji": "聖",
+        "meaning": "holy"
+      },
+      {
+        "kanji": "希実",
+        "meaning": "hope and fruit"
+      }
+    ]
   },
   "じゃ": {
     "male": [
-      "煌",
-      "豪",
-      "達"
+      {
+        "kanji": "豪",
+        "meaning": "heroic"
+      },
+      {
+        "kanji": "渉",
+        "meaning": "ford"
+      },
+      {
+        "kanji": "岳",
+        "meaning": "peak"
+      }
     ],
     "female": [
-      "澪",
-      "優",
-      "鈴"
-    ],
-    "meanings": {
-      "male": [
-        "shine",
-        "magnificent",
-        "achieve"
-      ],
-      "female": [
-        "waterway",
-        "gentle",
-        "bell"
-      ]
-    }
+      {
+        "kanji": "恋",
+        "meaning": "romance"
+      },
+      {
+        "kanji": "月",
+        "meaning": "moon"
+      },
+      {
+        "kanji": "笑",
+        "meaning": "smile"
+      }
+    ]
   },
   "じゅ": {
     "male": [
-      "翔",
-      "剛",
-      "勇"
+      {
+        "kanji": "嵐",
+        "meaning": "storm"
+      },
+      {
+        "kanji": "剣",
+        "meaning": "sword"
+      },
+      {
+        "kanji": "隼",
+        "meaning": "falcon"
+      }
     ],
     "female": [
-      "花",
-      "香",
-      "華"
-    ],
-    "meanings": {
-      "male": [
-        "to fly",
-        "strong",
-        "brave"
-      ],
-      "female": [
-        "flower",
-        "fragrance",
-        "brilliance"
-      ]
-    }
+      {
+        "kanji": "陽菜",
+        "meaning": "sunny greens"
+      },
+      {
+        "kanji": "凛",
+        "meaning": "dignified"
+      },
+      {
+        "kanji": "真",
+        "meaning": "truth"
+      }
+    ]
   },
   "じょ": {
     "male": [
-      "駿",
-      "健",
-      "光"
+      {
+        "kanji": "隼人",
+        "meaning": "quick man"
+      },
+      {
+        "kanji": "臣",
+        "meaning": "minister"
+      },
+      {
+        "kanji": "雷",
+        "meaning": "thunder"
+      }
     ],
     "female": [
-      "美",
-      "愛",
-      "夢"
+      {
+        "kanji": "渚",
+        "meaning": "shore"
+      },
+      {
+        "kanji": "羽",
+        "meaning": "feather"
+      },
+      {
+        "kanji": "望",
+        "meaning": "wish"
+      }
+    ]
+  },
+  "びゃ": {
+    "male": [
+      {
+        "kanji": "剣士",
+        "meaning": "swordsman"
+      },
+      {
+        "kanji": "衛",
+        "meaning": "guard"
+      },
+      {
+        "kanji": "義",
+        "meaning": "justice"
+      }
     ],
-    "meanings": {
-      "male": [
-        "fast horse",
-        "healthy",
-        "light"
-      ],
-      "female": [
-        "beauty",
-        "love",
-        "dream"
-      ]
-    }
+    "female": [
+      {
+        "kanji": "碧",
+        "meaning": "blue"
+      },
+      {
+        "kanji": "乃",
+        "meaning": "from"
+      },
+      {
+        "kanji": "菜",
+        "meaning": "greens"
+      }
+    ]
+  },
+  "びゅ": {
+    "male": [
+      {
+        "kanji": "駆",
+        "meaning": "gallop"
+      },
+      {
+        "kanji": "暁",
+        "meaning": "dawn"
+      },
+      {
+        "kanji": "烈",
+        "meaning": "fierce"
+      }
+    ],
+    "female": [
+      {
+        "kanji": "郁",
+        "meaning": "fragrance"
+      },
+      {
+        "kanji": "織",
+        "meaning": "weave"
+      },
+      {
+        "kanji": "灯",
+        "meaning": "light"
+      }
+    ]
+  },
+  "びょ": {
+    "male": [
+      {
+        "kanji": "翔",
+        "meaning": "fly"
+      },
+      {
+        "kanji": "剛",
+        "meaning": "strong"
+      },
+      {
+        "kanji": "勇",
+        "meaning": "bravery"
+      }
+    ],
+    "female": [
+      {
+        "kanji": "愛",
+        "meaning": "love"
+      },
+      {
+        "kanji": "花",
+        "meaning": "flower"
+      },
+      {
+        "kanji": "彩",
+        "meaning": "colorful"
+      }
+    ]
+  },
+  "ぴゃ": {
+    "male": [
+      {
+        "kanji": "光",
+        "meaning": "light"
+      },
+      {
+        "kanji": "健",
+        "meaning": "health"
+      },
+      {
+        "kanji": "海",
+        "meaning": "sea"
+      }
+    ],
+    "female": [
+      {
+        "kanji": "心",
+        "meaning": "heart"
+      },
+      {
+        "kanji": "優",
+        "meaning": "gentle"
+      },
+      {
+        "kanji": "桜",
+        "meaning": "cherry blossom"
+      }
+    ]
+  },
+  "ぴゅ": {
+    "male": [
+      {
+        "kanji": "龍",
+        "meaning": "dragon"
+      },
+      {
+        "kanji": "拓",
+        "meaning": "pioneer"
+      },
+      {
+        "kanji": "駿",
+        "meaning": "swift"
+      }
+    ],
+    "female": [
+      {
+        "kanji": "舞",
+        "meaning": "dance"
+      },
+      {
+        "kanji": "美",
+        "meaning": "beauty"
+      },
+      {
+        "kanji": "音",
+        "meaning": "sound"
+      }
+    ]
+  },
+  "ぴょ": {
+    "male": [
+      {
+        "kanji": "一",
+        "meaning": "one"
+      },
+      {
+        "kanji": "陸",
+        "meaning": "land"
+      },
+      {
+        "kanji": "晴",
+        "meaning": "clear sky"
+      }
+    ],
+    "female": [
+      {
+        "kanji": "陽",
+        "meaning": "sunlight"
+      },
+      {
+        "kanji": "詩",
+        "meaning": "poem"
+      },
+      {
+        "kanji": "香",
+        "meaning": "fragrance"
+      }
+    ]
   }
 }
