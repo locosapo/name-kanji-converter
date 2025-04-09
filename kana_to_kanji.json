@@ -1,0 +1,2354 @@
+{
+  "あ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "い": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "う": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "え": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "お": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "か": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "き": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "く": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "け": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "こ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "さ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "し": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "す": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "せ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "そ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "た": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "ち": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "つ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "て": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "と": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "な": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "に": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "ぬ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ね": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "の": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "は": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "ひ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ふ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "へ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ほ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ま": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "み": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "む": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "め": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "も": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "や": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ゆ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "よ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "ら": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "り": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "る": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "れ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ろ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "わ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "を": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ん": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "が": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ぎ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ぐ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "げ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "ご": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ざ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "じ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ず": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ぜ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "ぞ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "だ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ぢ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "づ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "で": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ど": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "ば": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "び": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ぶ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "べ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ぼ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ぱ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "ぴ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "ぷ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ぺ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "ぽ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "きゃ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "きゅ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "きょ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "しゃ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "しゅ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "しょ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ちゃ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ちゅ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "ちょ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "にゃ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "にゅ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "にょ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "ひゃ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "ひゅ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "ひょ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "みゃ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "みゅ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "みょ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "りゃ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "りゅ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "りょ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  },
+  "ぎゃ": {
+    "male": [
+      "陽",
+      "昇",
+      "龍"
+    ],
+    "female": [
+      "咲",
+      "彩",
+      "光"
+    ],
+    "meanings": {
+      "male": [
+        "sun",
+        "rise",
+        "dragon"
+      ],
+      "female": [
+        "bloom",
+        "colorful",
+        "light"
+      ]
+    }
+  },
+  "ぎゅ": {
+    "male": [
+      "武",
+      "誠",
+      "志"
+    ],
+    "female": [
+      "絵",
+      "希",
+      "恵"
+    ],
+    "meanings": {
+      "male": [
+        "warrior",
+        "sincerity",
+        "will"
+      ],
+      "female": [
+        "painting",
+        "hope",
+        "blessing"
+      ]
+    }
+  },
+  "ぎょ": {
+    "male": [
+      "迅",
+      "烈",
+      "信"
+    ],
+    "female": [
+      "詩",
+      "琴",
+      "舞"
+    ],
+    "meanings": {
+      "male": [
+        "swift",
+        "fierce",
+        "faith"
+      ],
+      "female": [
+        "poem",
+        "harp",
+        "dance"
+      ]
+    }
+  },
+  "じゃ": {
+    "male": [
+      "煌",
+      "豪",
+      "達"
+    ],
+    "female": [
+      "澪",
+      "優",
+      "鈴"
+    ],
+    "meanings": {
+      "male": [
+        "shine",
+        "magnificent",
+        "achieve"
+      ],
+      "female": [
+        "waterway",
+        "gentle",
+        "bell"
+      ]
+    }
+  },
+  "じゅ": {
+    "male": [
+      "翔",
+      "剛",
+      "勇"
+    ],
+    "female": [
+      "花",
+      "香",
+      "華"
+    ],
+    "meanings": {
+      "male": [
+        "to fly",
+        "strong",
+        "brave"
+      ],
+      "female": [
+        "flower",
+        "fragrance",
+        "brilliance"
+      ]
+    }
+  },
+  "じょ": {
+    "male": [
+      "駿",
+      "健",
+      "光"
+    ],
+    "female": [
+      "美",
+      "愛",
+      "夢"
+    ],
+    "meanings": {
+      "male": [
+        "fast horse",
+        "healthy",
+        "light"
+      ],
+      "female": [
+        "beauty",
+        "love",
+        "dream"
+      ]
+    }
+  }
+}
