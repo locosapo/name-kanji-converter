@@ -1,26 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <title>Name to Kanji Converter</title>
 </head>
 <body>
-    <h1>Name to Kanji Converter</h1>
-    <form method="post">
-        <label for="name">Enter Name (e.g., Carlos):</label>
+    <h1>英語名 → 漢字変換ツール</h1>
+    <form method="POST">
+        <label for="name">名前（例：Carlos）:</label>
         <input type="text" id="name" name="name" required>
-
-        <p>Select Gender:</p>
-        <label><input type="radio" name="gender" value="male" checked> Male</label>
-        <label><input type="radio" name="gender" value="female"> Female</label>
-
         <br><br>
-        <input type="submit" value="Convert">
+        <label for="gender">性別:</label>
+        <select name="gender" id="gender" required>
+            <option value="male">男</option>
+            <option value="female">女</option>
+        </select>
+        <br><br>
+        <input type="submit" value="変換する">
     </form>
 
     {% if result %}
-        <h2>Converted Kanji Name:</h2>
-        <p>{{ result }}</p>
+        <h2>変換結果:</h2>
+        <ul>
+            {% for kanji, meaning in result %}
+                <li>{{ kanji }} - {{ meaning }}</li>
+            {% endfor %}
+        </ul>
     {% endif %}
 </body>
 </html>
