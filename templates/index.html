@@ -17,20 +17,20 @@
   </form>
 
   {% if result %}
-    {% if result is string %}
-      <p>{{ result }}</p>
-    {% else %}
-      <h2>Converted Result:</h2>
-      <ul>
-      {% for item in result %}
-        <li>
-          <strong>{{ item.kana }}</strong>: 
-          {{ item.kanji | join(", ") }} 
-          ({{ item.meanings | join(", ") }})
-        </li>
-      {% endfor %}
-      </ul>
-    {% endif %}
+    <h2>Converted Result:</h2>
+    <ul>
+      {% if result is string %}
+        <li>{{ result }}</li>
+      {% else %}
+        {% for item in result %}
+          <li>
+            <strong>{{ item.kana }}</strong>: 
+            {{ item.kanji | join(", ") }} 
+            ({{ item.meanings | join(", ") }})
+          </li>
+        {% endfor %}
+      {% endif %}
+    </ul>
   {% endif %}
 </body>
 </html>
