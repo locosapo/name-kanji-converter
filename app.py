@@ -17,6 +17,10 @@ def index():
         name = request.form.get("name")
         gender = request.form.get("gender")
 
+        if not gender:
+            result = "Please select a gender."
+            return render_template("index.html", result=result)
+
         if name in pronounce_dict:
             kana = pronounce_dict[name]
         else:
@@ -28,14 +32,12 @@ def index():
         for char in kana:
             options = kana_dict.get(char, {})
             selected = options.get(gender, [])
+
             if selected:
+                # 最初の候補を選択
                 kanji = selected[0]
-                if isinstance(kanji, dict):
-                    meaning = kanji.get("meaning", "")
-                    kanji_result.append(kanji["kanji"])
-                else:
-                    kanji_result.append(kanji)
-                    meaning = ""  # 文字列の場合は意味は空
+                meaning = kanji.get("meaning", "") if isinstance(kanji, dict) else ""
+                kanji_result.append(kanji["kanji"] if isinstance(kanji, dict) else kanji)
                 meanings.append(meaning)
             else:
                 kanji_result.append("？")
