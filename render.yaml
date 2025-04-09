@@ -2,7 +2,6 @@ services:
   - type: web
     name: name-kanji-converter
     env: python
-    buildCommand: ""
     startCommand: "gunicorn app:app"
     envVars:
       - key: PYTHON_VERSION
