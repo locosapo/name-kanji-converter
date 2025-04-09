@@ -1,16 +1,46 @@
-def kana_to_kanji(kana_list, gender):
-    kanji_result = ""
-    meaning_result = []
+from flask import Flask, render_template, request
+import json
 
-    for kana in kana_list:
-        candidates = kana_dict.get(kana, {})
-        gendered_list = candidates.get(gender, [])
-        if gendered_list:
-            first = gendered_list[0]  # 最初の漢字を使う
-            kanji_result += first.get("kanji", "")
-            meaning_result.append(first.get("meaning", ""))
+app = Flask(__name__)
+
+# JSONファイルの読み込み
+with open("name_pronounce_dict.json", encoding="utf-8") as f:
+    pronounce_dict = json.load(f)
+
+with open("kana_to_kanji.json", encoding="utf-8") as f:
+    kana_dict = json.load(f)
+
+@app.route("/", methods=["GET", "POST"])
+def index():
+    result = ""
+    if request.method == "POST":
+        name = request.form.get("name")
+        gender = request.form.get("gender")
+
+        if name in pronounce_dict:
+            kana = pronounce_dict[name]
         else:
-            kanji_result += "？"
-            meaning_result.append("unknown")
+            kana = name.lower()
 
-    return f"{kanji_result} ({', '.join(meaning_result)})"
+        kanji_result = []
+        meanings = []
+
+        for char in kana:
+            options = kana_dict.get(char, {})
+            selected = options.get(gender, [])
+            if selected:
+                kanji = selected[0]
+                meaning = kanji.get("meaning", "") if isinstance(kanji, dict) else ""
+                kanji_result.append(kanji["kanji"] if isinstance(kanji, dict) else kanji)
+                meanings.append(meaning)
+            else:
+                kanji_result.append("？")
+                meanings.append("")
+
+        final_kanji = "".join(kanji_result)
+        result = final_kanji + "\nMeaning: " + ", ".join(meanings)
+
+    return render_template("index.html", result=result)
+
+if __name__ == "__main__":
+    app.run(debug=True)
