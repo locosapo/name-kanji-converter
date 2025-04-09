@@ -30,8 +30,12 @@ def index():
             selected = options.get(gender, [])
             if selected:
                 kanji = selected[0]
-                meaning = kanji.get("meaning", "") if isinstance(kanji, dict) else ""
-                kanji_result.append(kanji["kanji"] if isinstance(kanji, dict) else kanji)
+                if isinstance(kanji, dict):
+                    meaning = kanji.get("meaning", "")
+                    kanji_result.append(kanji["kanji"])
+                else:
+                    kanji_result.append(kanji)
+                    meaning = ""  # 文字列の場合は意味は空
                 meanings.append(meaning)
             else:
                 kanji_result.append("？")
