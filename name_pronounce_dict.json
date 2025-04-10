@@ -1,97 +1,382 @@
 {
-  "roberto": { "kanji": "狼武龍翔", "meaning": "wolf warrior soaring dragon" },
-  "carlos": { "kanji": "神龍呂守", "meaning": "divine dragon guardian of wisdom" },
-  "daniel": { "kanji": "断仁瑠", "meaning": "decisive benevolence flow" },
-  "miguel": { "kanji": "美剛瑠", "meaning": "beauty and strength flowing" },
-  "andres": { "kanji": "安怒烈守", "meaning": "peace, passion, fierce protector" },
-  "julio": { "kanji": "獣麗音", "meaning": "beastly elegance and sound" },
-  "ricardo": { "kanji": "力火道", "meaning": "powerful flame path" },
-  "alejandro": { "kanji": "嵐栄蛇呂", "meaning": "storm glory wise protector" },
-  "fernando": { "kanji": "風雷難怒", "meaning": "wind and thunder, strong will" },
-  "eduardo": { "kanji": "英龍道", "meaning": "brilliant dragon path" },
-  "luis": { "kanji": "流威志", "meaning": "flowing authority and will" },
-  "jose": { "kanji": "情星", "meaning": "emotion and star" },
-  "antonio": { "kanji": "闘音仁王", "meaning": "fight, sound, benevolent king" },
-  "manuel": { "kanji": "舞怒縁流", "meaning": "dancing will connected flow" },
-  "javier": { "kanji": "蛇飛栄龍", "meaning": "snake flying glory dragon" },
-  "marcos": { "kanji": "魔龍煌志", "meaning": "demonic dragon shining will" },
-  "hector": { "kanji": "兵剣飛道", "meaning": "warrior sword flying path" },
-  "oscar": { "kanji": "王星火龍", "meaning": "king star fire dragon" },
-  "hugo": { "kanji": "勇護", "meaning": "courage and protection" },
-  "martin": { "kanji": "魔雷智音", "meaning": "magic thunder wisdom sound" },
-  "alberto": { "kanji": "嵐武烈翔", "meaning": "storm warrior fierce flight" },
-  "victor": { "kanji": "威剣闘龍", "meaning": "authority sword battle dragon" },
-  "nicolas": { "kanji": "仁煌雷守", "meaning": "benevolence, brilliance, thunder guardian" },
-  "francisco": { "kanji": "風雷安志紅", "meaning": "wind, thunder, peace, will, red" },
-  "sebastian": { "kanji": "星覇志天", "meaning": "star supremacy will sky" },
-  "kevin": { "kanji": "剣威流", "meaning": "sword, authority, flow" },
-  "tyler": { "kanji": "闘雷龍", "meaning": "battle thunder dragon" },
-  "brandon": { "kanji": "爆嵐怒", "meaning": "explosion, storm, fury" },
-  "brian": { "kanji": "武龍安仁", "meaning": "warrior dragon, peace, benevolence" },
-  "ryan": { "kanji": "雷夜仁", "meaning": "thunder, night, benevolence" },
-  "sean": { "kanji": "星音安仁", "meaning": "star, sound, peace, kindness" },
-  "patrick": { "kanji": "覇闘龍志", "meaning": "supremacy, battle, dragon, will" },
-  "ethan": { "kanji": "栄天仁", "meaning": "glory, heaven, virtue" },
-  "caleb": { "kanji": "火雷武", "meaning": "fire, thunder, warrior" },
-  "isaiah": { "kanji": "威聖栄覇", "meaning": "authority, sacred, glory, supremacy" },
-  "jonathan": { "kanji": "情仁栄天", "meaning": "emotion, kindness, glory, heaven" },
-  "george": { "kanji": "剛王仁士", "meaning": "strength, king, kindness, man" },
-  "diego": { "kanji": "大炎護", "meaning": "great fire guardian" },
-  "jorge": { "kanji": "情雷蛇", "meaning": "emotion, thunder, snake" },
-  "takahiro": { "kanji": "鷹火路", "meaning": "hawk, fire, path" },
-  "satoshi": { "kanji": "聡志飛", "meaning": "wise will flight" },
-  "daisuke": { "kanji": "大剣助", "meaning": "great sword support" },
-  "kenta": { "kanji": "剣太", "meaning": "sword greatness" },
-  "sho": { "kanji": "翔", "meaning": "soar" },
-  "michael": { "kanji": "舞家龍", "meaning": "dancing spirit of the house of dragons" },
-  "sofia": { "kanji": "想妃亜", "meaning": "thinking noble Asia" },
-  "isabella": { "kanji": "伊咲麗", "meaning": "graceful bloom of Italy" },
-  "camila": { "kanji": "花実羅", "meaning": "flower, fruit, elegance" },
-  "valentina": { "kanji": "美愛蓮多", "meaning": "beauty, love, lotus, abundance" },
-  "lucia": { "kanji": "瑠詩亜", "meaning": "lapis, poetry, Asia" },
-  "mariana": { "kanji": "舞莉安和", "meaning": "dance, jasmine, peace, harmony" },
-  "antonella": { "kanji": "杏翔麗羅", "meaning": "apricot, fly high, beautiful, elegance" },
-  "gabriela": { "kanji": "雅舞麗羅", "meaning": "grace, dance, beauty, elegance" },
-  "diana": { "kanji": "麗愛那", "meaning": "beauty, love, grace" },
-  "fernanda": { "kanji": "風麗菜夢", "meaning": "wind, beauty, greens, dream" },
-  "ximena": { "kanji": "希美音菜", "meaning": "hope, beauty, sound, greens" },
-  "daniela": { "kanji": "珠音麗愛", "meaning": "pearl, sound, beauty, love" },
-  "carla": { "kanji": "花麗愛", "meaning": "flower, beauty, love" },
-  "samantha": { "kanji": "咲舞安多", "meaning": "bloom, dance, peace, abundance" },
-  "melissa": { "kanji": "芽莉咲", "meaning": "bud, jasmine, bloom" },
-  "paula": { "kanji": "波麗愛", "meaning": "wave, beauty, love" },
-  "julia": { "kanji": "珠麗愛", "meaning": "pearl, beauty, love" },
-  "maria": { "kanji": "舞莉愛", "meaning": "dance, jasmine, love" },
-  "veronica": { "kanji": "美蓮香", "meaning": "beauty, lotus, fragrance" },
-  "brenda": { "kanji": "舞蓮愛", "meaning": "dance, lotus, love" },
-  "elena": { "kanji": "絵麗菜", "meaning": "art, beauty, greens" },
-  "patricia": { "kanji": "波翔莉愛", "meaning": "wave, fly high, jasmine, love" },
-  "monica": { "kanji": "萌音香", "meaning": "bud, sound, fragrance" },
-  "andrea": { "kanji": "杏麗愛", "meaning": "apricot, beauty, love" },
-  "valeria": { "kanji": "愛蓮莉亜", "meaning": "love, lotus, jasmine, Asia" },
-  "olivia": { "kanji": "音麗美愛", "meaning": "sound, beauty, beauty, love" },
-  "emma": { "kanji": "笑舞愛", "meaning": "smile, dance, love" },
-  "ava": { "kanji": "愛羽", "meaning": "love, feather" },
-  "mia": { "kanji": "美愛", "meaning": "beauty, love" },
-  "amelia": { "kanji": "愛芽莉亜", "meaning": "love, bud, jasmine, Asia" },
-  "harper": { "kanji": "陽羽麗", "meaning": "sunny, feather, beauty" },
-  "evelyn": { "kanji": "恵舞麗音", "meaning": "grace, dance, beauty, sound" },
-  "abigail": { "kanji": "愛美雅", "meaning": "love, beauty, grace" },
-  "natalie": { "kanji": "菜多麗", "meaning": "greens, many, beauty" },
-  "karla": { "kanji": "花麗", "meaning": "flower, beauty" },
-  "veronika": { "kanji": "香蓮麗", "meaning": "fragrance, lotus, beauty" },
-  "victoria": { "kanji": "麗翔莉愛", "meaning": "beauty, fly high, jasmine, love" },
-  "angelina": { "kanji": "愛音珠菜", "meaning": "love, sound, pearl, greens" },
-  "nina": { "kanji": "虹菜", "meaning": "rainbow, greens" },
-  "bianca": { "kanji": "白音香", "meaning": "white, sound, fragrance" },
-  "gianna": { "kanji": "慈安菜", "meaning": "compassion, peace, greens" },
-  "stella": { "kanji": "星麗愛", "meaning": "star, beauty, love" },
-  "ella": { "kanji": "絵麗愛", "meaning": "art, beauty, love" },
-  "chloe": { "kanji": "香麗愛", "meaning": "fragrance, beauty, love" },
-  "zoe": { "kanji": "奏恵", "meaning": "play music, grace" },
-  "luna": { "kanji": "月菜", "meaning": "moon, greens" },
-  "aria": { "kanji": "愛莉亜", "meaning": "love, jasmine, Asia" },
-  "lyla": { "kanji": "麗羅", "meaning": "beauty, elegance" },
-  "ivy": { "kanji": "依美", "meaning": "reliance, beauty" },
-  "sienna": { "kanji": "詩恵菜", "meaning": "poem, grace, greens" }
+  "roberto": {
+    "kanji": "狼武龍翔",
+    "meaning": "wolf warrior soaring dragon"
+  },
+  "carlos": {
+    "kanji": "神龍呂守",
+    "meaning": "divine dragon guardian of wisdom"
+  },
+  "daniel": {
+    "kanji": "断仁瑠",
+    "meaning": "decisive benevolence flow"
+  },
+  "miguel": {
+    "kanji": "美剛瑠",
+    "meaning": "beauty and strength flowing"
+  },
+  "andres": {
+    "kanji": "安怒烈守",
+    "meaning": "peace, passion, fierce protector"
+  },
+  "julio": {
+    "kanji": "獣麗音",
+    "meaning": "beastly elegance and sound"
+  },
+  "ricardo": {
+    "kanji": "力火道",
+    "meaning": "powerful flame path"
+  },
+  "alejandro": {
+    "kanji": "嵐栄蛇呂",
+    "meaning": "storm glory wise protector"
+  },
+  "fernando": {
+    "kanji": "風雷難怒",
+    "meaning": "wind and thunder, strong will"
+  },
+  "eduardo": {
+    "kanji": "英龍道",
+    "meaning": "brilliant dragon path"
+  },
+  "luis": {
+    "kanji": "流威志",
+    "meaning": "flowing authority and will"
+  },
+  "jose": {
+    "kanji": "情星",
+    "meaning": "emotion and star"
+  },
+  "antonio": {
+    "kanji": "闘音仁王",
+    "meaning": "fight, sound, benevolent king"
+  },
+  "manuel": {
+    "kanji": "舞怒縁流",
+    "meaning": "dancing will connected flow"
+  },
+  "javier": {
+    "kanji": "蛇飛栄龍",
+    "meaning": "snake flying glory dragon"
+  },
+  "marcos": {
+    "kanji": "魔龍煌志",
+    "meaning": "demonic dragon shining will"
+  },
+  "hector": {
+    "kanji": "兵剣飛道",
+    "meaning": "warrior sword flying path"
+  },
+  "oscar": {
+    "kanji": "王星火龍",
+    "meaning": "king star fire dragon"
+  },
+  "hugo": {
+    "kanji": "勇護",
+    "meaning": "courage and protection"
+  },
+  "martin": {
+    "kanji": "魔雷智音",
+    "meaning": "magic thunder wisdom sound"
+  },
+  "alberto": {
+    "kanji": "嵐武烈翔",
+    "meaning": "storm warrior fierce flight"
+  },
+  "victor": {
+    "kanji": "威剣闘龍",
+    "meaning": "authority sword battle dragon"
+  },
+  "nicolas": {
+    "kanji": "仁煌雷守",
+    "meaning": "benevolence, brilliance, thunder guardian"
+  },
+  "francisco": {
+    "kanji": "風雷安志紅",
+    "meaning": "wind, thunder, peace, will, red"
+  },
+  "sebastian": {
+    "kanji": "星覇志天",
+    "meaning": "star supremacy will sky"
+  },
+  "kevin": {
+    "kanji": "剣威流",
+    "meaning": "sword, authority, flow"
+  },
+  "tyler": {
+    "kanji": "闘雷龍",
+    "meaning": "battle thunder dragon"
+  },
+  "brandon": {
+    "kanji": "爆嵐怒",
+    "meaning": "explosion, storm, fury"
+  },
+  "brian": {
+    "kanji": "武龍安仁",
+    "meaning": "warrior dragon, peace, benevolence"
+  },
+  "ryan": {
+    "kanji": "雷夜仁",
+    "meaning": "thunder, night, benevolence"
+  },
+  "sean": {
+    "kanji": "星音安仁",
+    "meaning": "star, sound, peace, kindness"
+  },
+  "patrick": {
+    "kanji": "覇闘龍志",
+    "meaning": "supremacy, battle, dragon, will"
+  },
+  "ethan": {
+    "kanji": "栄天仁",
+    "meaning": "glory, heaven, virtue"
+  },
+  "caleb": {
+    "kanji": "火雷武",
+    "meaning": "fire, thunder, warrior"
+  },
+  "isaiah": {
+    "kanji": "威聖栄覇",
+    "meaning": "authority, sacred, glory, supremacy"
+  },
+  "jonathan": {
+    "kanji": "情仁栄天",
+    "meaning": "emotion, kindness, glory, heaven"
+  },
+  "george": {
+    "kanji": "剛王仁士",
+    "meaning": "strength, king, kindness, man"
+  },
+  "diego": {
+    "kanji": "大炎護",
+    "meaning": "great fire guardian"
+  },
+  "jorge": {
+    "kanji": "情雷蛇",
+    "meaning": "emotion, thunder, snake"
+  },
+  "takahiro": {
+    "kanji": "鷹火路",
+    "meaning": "hawk, fire, path"
+  },
+  "satoshi": {
+    "kanji": "聡志飛",
+    "meaning": "wise will flight"
+  },
+  "daisuke": {
+    "kanji": "大剣助",
+    "meaning": "great sword support"
+  },
+  "kenta": {
+    "kanji": "剣太",
+    "meaning": "sword greatness"
+  },
+  "sho": {
+    "kanji": "翔",
+    "meaning": "soar"
+  },
+  "michael": {
+    "kanji": "舞家龍",
+    "meaning": "dancing spirit of the house of dragons"
+  },
+  "sofia": {
+    "kanji": "想妃亜",
+    "meaning": "thinking noble Asia"
+  },
+  "isabella": {
+    "kanji": "伊咲麗",
+    "meaning": "graceful bloom of Italy"
+  },
+  "camila": {
+    "kanji": "花実羅",
+    "meaning": "flower, fruit, elegance"
+  },
+  "valentina": {
+    "kanji": "美愛蓮多",
+    "meaning": "beauty, love, lotus, abundance"
+  },
+  "lucia": {
+    "kanji": "瑠詩亜",
+    "meaning": "lapis, poetry, Asia"
+  },
+  "mariana": {
+    "kanji": "舞莉安和",
+    "meaning": "dance, jasmine, peace, harmony"
+  },
+  "antonella": {
+    "kanji": "杏翔麗羅",
+    "meaning": "apricot, fly high, beautiful, elegance"
+  },
+  "gabriela": {
+    "kanji": "雅舞麗羅",
+    "meaning": "grace, dance, beauty, elegance"
+  },
+  "diana": {
+    "kanji": "麗愛那",
+    "meaning": "beauty, love, grace"
+  },
+  "fernanda": {
+    "kanji": "風麗菜夢",
+    "meaning": "wind, beauty, greens, dream"
+  },
+  "ximena": {
+    "kanji": "希美音菜",
+    "meaning": "hope, beauty, sound, greens"
+  },
+  "daniela": {
+    "kanji": "珠音麗愛",
+    "meaning": "pearl, sound, beauty, love"
+  },
+  "carla": {
+    "kanji": "花麗愛",
+    "meaning": "flower, beauty, love"
+  },
+  "samantha": {
+    "kanji": "咲舞安多",
+    "meaning": "bloom, dance, peace, abundance"
+  },
+  "melissa": {
+    "kanji": "芽莉咲",
+    "meaning": "bud, jasmine, bloom"
+  },
+  "paula": {
+    "kanji": "波麗愛",
+    "meaning": "wave, beauty, love"
+  },
+  "julia": {
+    "kanji": "珠麗愛",
+    "meaning": "pearl, beauty, love"
+  },
+  "maria": {
+    "kanji": "舞莉愛",
+    "meaning": "dance, jasmine, love"
+  },
+  "veronica": {
+    "kanji": "美蓮香",
+    "meaning": "beauty, lotus, fragrance"
+  },
+  "brenda": {
+    "kanji": "舞蓮愛",
+    "meaning": "dance, lotus, love"
+  },
+  "elena": {
+    "kanji": "絵麗菜",
+    "meaning": "art, beauty, greens"
+  },
+  "patricia": {
+    "kanji": "波翔莉愛",
+    "meaning": "wave, fly high, jasmine, love"
+  },
+  "monica": {
+    "kanji": "萌音香",
+    "meaning": "bud, sound, fragrance"
+  },
+  "andrea": {
+    "kanji": "杏麗愛",
+    "meaning": "apricot, beauty, love"
+  },
+  "valeria": {
+    "kanji": "愛蓮莉亜",
+    "meaning": "love, lotus, jasmine, Asia"
+  },
+  "olivia": {
+    "kanji": "音麗美愛",
+    "meaning": "sound, beauty, beauty, love"
+  },
+  "emma": {
+    "kanji": "笑舞愛",
+    "meaning": "smile, dance, love"
+  },
+  "ava": {
+    "kanji": "愛羽",
+    "meaning": "love, feather"
+  },
+  "mia": {
+    "kanji": "美愛",
+    "meaning": "beauty, love"
+  },
+  "amelia": {
+    "kanji": "愛芽莉亜",
+    "meaning": "love, bud, jasmine, Asia"
+  },
+  "harper": {
+    "kanji": "陽羽麗",
+    "meaning": "sunny, feather, beauty"
+  },
+  "evelyn": {
+    "kanji": "恵舞麗音",
+    "meaning": "grace, dance, beauty, sound"
+  },
+  "abigail": {
+    "kanji": "愛美雅",
+    "meaning": "love, beauty, grace"
+  },
+  "natalie": {
+    "kanji": "菜多麗",
+    "meaning": "greens, many, beauty"
+  },
+  "karla": {
+    "kanji": "花麗",
+    "meaning": "flower, beauty"
+  },
+  "veronika": {
+    "kanji": "香蓮麗",
+    "meaning": "fragrance, lotus, beauty"
+  },
+  "victoria": {
+    "kanji": "麗翔莉愛",
+    "meaning": "beauty, fly high, jasmine, love"
+  },
+  "angelina": {
+    "kanji": "愛音珠菜",
+    "meaning": "love, sound, pearl, greens"
+  },
+  "nina": {
+    "kanji": "虹菜",
+    "meaning": "rainbow, greens"
+  },
+  "bianca": {
+    "kanji": "白音香",
+    "meaning": "white, sound, fragrance"
+  },
+  "gianna": {
+    "kanji": "慈安菜",
+    "meaning": "compassion, peace, greens"
+  },
+  "stella": {
+    "kanji": "星麗愛",
+    "meaning": "star, beauty, love"
+  },
+  "ella": {
+    "kanji": "絵麗愛",
+    "meaning": "art, beauty, love"
+  },
+  "chloe": {
+    "kanji": "香麗愛",
+    "meaning": "fragrance, beauty, love"
+  },
+  "zoe": {
+    "kanji": "奏恵",
+    "meaning": "play music, grace"
+  },
+  "luna": {
+    "kanji": "月菜",
+    "meaning": "moon, greens"
+  },
+  "aria": {
+    "kanji": "愛莉亜",
+    "meaning": "love, jasmine, Asia"
+  },
+  "lyla": {
+    "kanji": "麗羅",
+    "meaning": "beauty, elegance"
+  },
+  "ivy": {
+    "kanji": "依美",
+    "meaning": "reliance, beauty"
+  },
+  "sienna": {
+    "kanji": "詩恵菜",
+    "meaning": "poem, grace, greens"
+  }
 }
