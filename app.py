@@ -84,3 +84,6 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+    # 結果に "？" が含まれている場合にメッセージを追加
+if "？" in final_kanji:
+    result += "\n\nNote: If you see any '？' in the name, it means some characters couldn't be converted. Please take a screenshot and contact us for support!"
