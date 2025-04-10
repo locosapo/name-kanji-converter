@@ -10,7 +10,6 @@
     <label for="name">Enter Name (e.g., Roberto):</label>
     <input type="text" id="name" name="name" required>
     <p>Select Gender:</p>
-    <!-- ラジオボタン。name属性が同じ場合、どれか1つは必須になります -->
     <label><input type="radio" name="gender" value="male" required> Male</label>
     <label><input type="radio" name="gender" value="female"> Female</label>
     <br><br>
@@ -19,10 +18,7 @@
 
   {% if result %}
     <h2>Converted Result:</h2>
-    <!-- ここでは常に文字列として処理している想定です -->
-    <ul>
-      <li>{{ result | safe }}</li>
-    </ul>
+    <pre>{{ result }}</pre>
   {% endif %}
 </body>
 </html>
