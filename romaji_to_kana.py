@@ -27,20 +27,30 @@ ROMAJI_TO_HIRAGANA = [
     ("ma", "ま"), ("mi", "み"), ("mu", "む"), ("me", "め"), ("mo", "も"),
     ("ya", "や"), ("yu", "ゆ"), ("yo", "よ"),
     ("ra", "ら"), ("ri", "り"), ("ru", "る"), ("re", "れ"), ("ro", "ろ"),
-    ("wa", "わ"), ("wo", "を"), ("n", "ん")
+    ("wa", "わ"), ("wo", "を")
 ]
 
 def romaji_to_kana(name: str, pronounce_dict: dict) -> str:
-    name = name.lower().strip().replace("-", "")
-    
-    # 辞書に登録されていればそのまま返す
+    name = name.lower().strip().replace("-", "").replace("'", "")
+
     if name in pronounce_dict:
-        return pronounce_dict[name].replace("ー", "")  # 長音もここで除去
+        return pronounce_dict[name].replace("ー", "")
 
     result = ""
     i = 0
     while i < len(name):
-        # 最大3文字のパターンを優先的に探す
+        # 特別対応：「n」の直後が母音または "y" の場合は「ん」じゃない
+        if name[i] == "n":
+            if i + 1 == len(name):  # nで終わる場合
+                result += "ん"
+                i += 1
+                continue
+            elif name[i + 1] not in "aiueoyn":  # nのあとが子音（または重なったn）なら「ん」
+                result += "ん"
+                i += 1
+                continue
+
+        # 通常のマッピング処理（3→2→1文字）
         matched = False
         for length in [3, 2, 1]:
             part = name[i:i+length]
@@ -53,7 +63,7 @@ def romaji_to_kana(name: str, pronounce_dict: dict) -> str:
             if matched:
                 break
         if not matched:
-            # 対応しない場合は「？」として追加
             result += "？"
             i += 1
+
     return result
