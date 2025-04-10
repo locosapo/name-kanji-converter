@@ -130,7 +130,7 @@
   "ethan": {
     "kanji": "栄天仁",
     "meaning": "glory, heaven, virtue"
-  },
+  }  ,
   "caleb": {
     "kanji": "火雷武",
     "meaning": "fire, thunder, warrior"
@@ -278,7 +278,7 @@
   "valeria": {
     "kanji": "愛蓮莉亜",
     "meaning": "love, lotus, jasmine, Asia"
-  },
+  }  ,
   "olivia": {
     "kanji": "音麗美愛",
     "meaning": "sound, beauty, beauty, love"
@@ -378,5 +378,87 @@
   "sienna": {
     "kanji": "詩恵菜",
     "meaning": "poem, grace, greens"
+  },
+  "lillian": {
+    "kanji": "莉愛安",
+    "meaning": "jasmine, love, peace"
+  },
+  "delilah": {
+    "kanji": "出麗羅",
+    "meaning": "emergence, beauty, elegance"
+  },
+  "mckenna": {
+    "kanji": "舞絢菜",
+    "meaning": "dance, brilliance, greens"
+  },
+  "jordyn": {
+    "kanji": "情麗音",
+    "meaning": "emotion, beauty, sound"
+  },
+  "jocelyn": {
+    "kanji": "珠聖麗",
+    "meaning": "pearl, sacred, beauty"
+  },
+  "alina": {
+    "kanji": "愛莉菜",
+    "meaning": "love, jasmine, greens"
+  },
+  "charlotte": {
+    "kanji": "香羅栄翔",
+    "meaning": "fragrance, elegance, glory, flight"
+  },
+  "alaina": {
+    "kanji": "愛麗菜",
+    "meaning": "love, beauty, greens"
+  },
+  "phoebe": {
+    "kanji": "風美響",
+    "meaning": "wind, beauty, resonance"
+  },
+  "camille": {
+    "kanji": "華美瑠",
+    "meaning": "splendor, beauty, gem"
+  },
+  "helen": {
+    "kanji": "栄麗音",
+    "meaning": "glory, beauty, sound"
+  },
+  "amira": {
+    "kanji": "亜美羅",
+    "meaning": "Asia, beauty, elegance"
+  },
+  "melina": {
+    "kanji": "芽莉菜",
+    "meaning": "bud, jasmine, greens"
+  },
+  "annabelle": {
+    "kanji": "杏那美麗",
+    "meaning": "apricot, grace, beauty"
+  },
+  "ariah": {
+    "kanji": "愛莉葉",
+    "meaning": "love, jasmine, leaf"
+  },
+  "lexi": {
+    "kanji": "麗絢",
+    "meaning": "beauty, brilliance"
+  },
+  "dakota": {
+    "kanji": "陽心翔",
+    "meaning": "sunny, heart, flight"
+  },
+  "journee": {
+    "kanji": "情夢音",
+    "meaning": "emotion, dream, sound"
+  },
+  "kennedy": {
+    "kanji": "絢音道",
+    "meaning": "brilliance, sound, path"
+  },
+  "kayla": {
+    "kanji": "香麗愛",
+    "meaning": "fragrance, beauty, love"
   }
 }
+
+
