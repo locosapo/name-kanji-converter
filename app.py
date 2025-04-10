@@ -10,9 +10,9 @@ with open("name_pronounce_dict.json", encoding="utf-8") as f:
 with open("kana_to_kanji.json", encoding="utf-8") as f:
     kana_dict = json.load(f)
 
-# 必要があれば決め打ち当て字辞書も読み込み（コメントアウトを外せば使える）
-# with open("fixed_name_kanji_dict.json", encoding="utf-8") as f:
-#     fixed_dict = json.load(f)
+# 決め打ち当て字辞書も読み込み（使用する場合）
+with open("fixed_name_kanji_dict.json", encoding="utf-8") as f:
+    fixed_dict = json.load(f)
 
 SMALL_CHARS = set(["ぁ", "ぃ", "ぅ", "ぇ", "ぉ", "ゃ", "ゅ", "ょ", "っ",
                    "ゎ", "ゕ", "ゖ"])  # 小書き文字・拗音など
@@ -50,11 +50,11 @@ def index():
             result = "Please select a gender."
             return render_template("index.html", result=result)
 
-        # 固定辞書にあればそちらを優先（使うなら上で読み込み必要）
-        # if name.lower() in fixed_dict:
-        #     fixed = fixed_dict[name.lower()]
-        #     result = f"{fixed['kanji']}\nMeaning: {fixed['meaning']}"
-        #     return render_template("index.html", result=result)
+        # 決め打ち辞書にあればそちらを優先
+        if name.lower() in fixed_dict:
+            fixed = fixed_dict[name.lower()]
+            result = f"{fixed['kanji']}\nMeaning: {fixed['meaning']}"
+            return render_template("index.html", result=result)
 
         if name.lower() in pronounce_dict:
             raw_kana = pronounce_dict[name.lower()]
