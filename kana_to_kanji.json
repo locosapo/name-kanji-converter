@@ -466,23 +466,23 @@
     },
     "female": {
       "kanji": "仰",
-      "meaning": "to look up to, to admire"
+      "meaning": "to look up to"
     }
   },
   "じゃ": {
     "male": {
       "kanji": "謝",
-      "meaning": "to thank, to apologize"
+      "meaning": "to thank"
     },
     "female": {
       "kanji": "紗",
-      "meaning": "gauze, fine silk"
+      "meaning": "fine silk"
     }
   },
   "じゅ": {
     "male": {
       "kanji": "寿",
-      "meaning": "longevity, congratulations"
+      "meaning": "longevity"
     },
     "female": {
       "kanji": "珠",
@@ -492,7 +492,7 @@
   "じょ": {
     "male": {
       "kanji": "譲",
-      "meaning": "to yield, to hand over"
+      "meaning": "to yield"
     },
     "female": {
       "kanji": "城",
@@ -502,21 +502,21 @@
   "ぎゃ": {
     "male": {
       "kanji": "暁",
-      "meaning": "dawn, daybreak"
+      "meaning": "daybreak"
     },
     "female": {
       "kanji": "玉",
-      "meaning": "jewel, precious"
+      "meaning": "jewel"
     }
   },
   "ぎゅ": {
     "male": {
       "kanji": "牛",
-      "meaning": "ox, cow"
+      "meaning": "ox"
     },
     "female": {
       "kanji": "祐",
-      "meaning": "blessing, divine help"
+      "meaning": "divine help"
     }
   },
   "ぢゃ": {
@@ -525,8 +525,8 @@
       "meaning": "snake"
     },
     "female": {
-      "kanji": "邪",
-      "meaning": "wicked, evil"
+      "kanji": "謝",
+      "meaning": "to thank"
     }
   },
   "ぢゅ": {
@@ -542,17 +542,17 @@
   "ぢょ": {
     "male": {
       "kanji": "助",
-      "meaning": "help, assistance"
+      "meaning": "help"
     },
     "female": {
       "kanji": "序",
-      "meaning": "order, beginning"
+      "meaning": "order"
     }
   },
   "びゃ": {
     "male": {
       "kanji": "飛躍",
-      "meaning": "leap, breakthrough"
+      "meaning": "breakthrough"
     },
     "female": {
       "kanji": "美夜",
@@ -562,7 +562,7 @@
   "びゅ": {
     "male": {
       "kanji": "彪",
-      "meaning": "brave, fierce"
+      "meaning": "fierce"
     },
     "female": {
       "kanji": "美優",
@@ -572,11 +572,11 @@
   "びょ": {
     "male": {
       "kanji": "秒",
-      "meaning": "second (time)"
+      "meaning": "second"
     },
     "female": {
       "kanji": "描",
-      "meaning": "to draw, to paint"
+      "meaning": "to draw"
     }
   },
   "ぴゃ": {
@@ -592,11 +592,11 @@
   "ぴゅ": {
     "male": {
       "kanji": "彪",
-      "meaning": "brave, fierce"
+      "meaning": "fierce"
     },
     "female": {
       "kanji": "優",
-      "meaning": "gentle, superior"
+      "meaning": "gentle"
     }
   },
   "ぴょ": {
